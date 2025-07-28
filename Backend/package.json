@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "description": "This is a photosharing app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ST10262464/photoshare-1.git"
+  },
+  "keywords": [
+    "Photo",
+    "Sharing",
+    "MongoDB",
+    "React"
+  ],
+  "author": "Shivon Prawlall",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ST10262464/photoshare-1/issues"
+  },
+  "homepage": "https://github.com/ST10262464/photoshare-1#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
